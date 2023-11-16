@@ -3,11 +3,6 @@ module binanceTestTask
 go 1.21
 
 require (
-	github.com/adshao/go-binance/v2 v2.4.5
-	github.com/stretchr/testify v1.8.1
-)
-
-require (
 	github.com/aiviaio/go-binance/v2 v2.1.0 // indirect
 	github.com/bitly/go-simplejson v0.5.1 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
